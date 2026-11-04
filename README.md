@@ -89,7 +89,3 @@ Kopyalanan metinler `~/.pano_gecmisi.json` dosyasına **düz metin** olarak kayd
 | Simge değişmedi | `touch` ile uygulamayı güncelleyip `killall Finder Dock` çalıştırın |
 | Pano izni isteniyor | Sistem Ayarları → Gizlilik ve Güvenlik'ten izin verin |
 | Arama kutusuna yazılamıyor | Menüyü kapatıp tekrar açın; sorun sürerse bir Issue açın |
-
-## Lisans
-
-MIT
