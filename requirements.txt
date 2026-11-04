@@ -1,0 +1,3 @@
+rumps
+pyperclip
+py2app
