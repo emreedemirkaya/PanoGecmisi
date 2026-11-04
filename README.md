@@ -32,7 +32,3 @@ Uygulama `dist/PanoGecmisi.app` olarak oluşur.
 ## Gizlilik
 
 Kopyalanan metinler `~/.pano_gecmisi.json` dosyasına düz metin olarak kaydedilir. Şifre kopyaladıysanız menüden "Geçmişi temizle"yi kullanın.
-
-## Lisans
-
-MIT
