@@ -11,7 +11,7 @@ OPTIONS = {
         "CFBundleVersion": "1.0.0",
         "LSUIElement": True,
     },
-    "packages": ["rumps"],
+    "packages": ["rumps", "objc", "AppKit", "Foundation"],
 }
 
 setup(
